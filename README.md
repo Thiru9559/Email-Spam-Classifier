@@ -2,7 +2,6 @@
 
 A Machine Learning web app built using Streamlit that classifies messages as Spam or Not Spam.
 
-🚀 **Live Demo:** https://email-spam-classifier-123456789.streamlit.app/
 
 ## Features
 
